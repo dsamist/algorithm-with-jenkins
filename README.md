@@ -3,7 +3,7 @@
 
 [![Build Status](http://ec2-51-21-113-120.eu-north-1.compute.amazonaws.com/buildStatus/icon?job=algorithm-pipeline)](http://ec2-51-21-113-120.eu-north-1.compute.amazonaws.com/job/algorithm-pipeline/)
 
-You're on a team developing an algorithm that calculates the value of pi.
+You're on a team developing an algorithm that calculates the value of pi..
 
 The code for the project is being stored in a GitHub repository. The team wants to test the latest changes to the algorithm with every push to the repo.
 
